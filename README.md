@@ -1,4 +1,4 @@
-Static Analysis-Based Trojan Detection (Implemented)
+<h1>Static Analysis-Based Trojan Detection (Implemented)</h1>
 To detect Android banking trojans, we implemented a static analysis script using the Androguard framework in Python. The tool analyzes APK files to identify potential malicious behaviors based on the following indicators:
 
 Suspicious Permissions: Such as RECEIVE_SMS, BIND_ACCESSIBILITY_SERVICE, which are often abused by banking trojans to intercept OTPs or perform unauthorized UI interactions.
